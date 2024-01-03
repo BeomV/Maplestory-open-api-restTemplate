@@ -1,5 +1,6 @@
-# Maplestory-open-api-restTemplate
-메이플스토리 공식 OPEN API 캐릭터, 아이템 정보 조회
+# 프로젝트 소개
+메이플스토리에서 공식으로 API를 공개함에 따라 기존 웹 크롤링,스크래핑으로만 제공 되었던 웹 서비스를 구현해보았다. 
+<br>프론트는 기본적으로 간단하게 구현되어 있다.
 
 ## API Token
 
@@ -20,6 +21,10 @@
 ### #application.properties
 ```properties
 api.token=Your Token
+```
+### servlet-context.xml
+```xml
+<context:property-placeholder location="classpath:application.properties"/>
 ```
 
 ### Token 가져오기
