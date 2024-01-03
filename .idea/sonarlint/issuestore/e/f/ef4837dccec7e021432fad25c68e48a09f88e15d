@@ -1,0 +1,19 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Á¹’î8Òé‚„Ê1
+r	java:S116"QRename this field "Damage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¨íàüÿÿÿÿ8Òé‚„Ê1
+r	java:S116"VRename this field "Boss_Damage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êàĞµ8Òé‚„Ê1
+q	java:S116	"URename this field "Final_Data" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¡üñ8Òé‚„Ê1
+q	java:S116
+"URename this field "Def_Ignore" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–é¹ÿ8Òé‚„Ê1
+x	java:S116"WRename this field "Critical_val" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óèªåüÿÿÿÿ8Òé‚„Ê1
+v	java:S116"ZRename this field "Critical_Damage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—èÉ£8Òé‚„Ê1
+t	java:S116"SRename this field "AC_Force" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½±¾üÿÿÿÿ8Òé‚„Ê1
+t	java:S116"SRename this field "AS_Force" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ßùëşÿÿÿÿ8Òé‚„Ê1
+o	java:S116"NRename this field "Str" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÉÿ÷ÿÿÿÿÿ8Òé‚„Ê1
+o	java:S116"NRename this field "Dex" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åš™°øÿÿÿÿ8Òé‚„Ê1
+j	java:S116"PRename this field "c_Int" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰õq8Ğ‘î„Ê1
+o	java:S116"NRename this field "Luk" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î•Íÿÿÿÿÿ8Òé‚„Ê1
+k	java:S116"ORename this field "Item" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â°Ÿû8Òé‚„Ê1
+p	java:S116"ORename this field "Meso" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãóšÿûÿÿÿÿ8Òé‚„Ê1
+j	java:S116"ORename this field "Buff" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÏı8Òé‚„Ê1
+x	java:S116"WRename this field "attack_point" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô¦ÕÄÿÿÿÿÿ8Òé‚„Ê1

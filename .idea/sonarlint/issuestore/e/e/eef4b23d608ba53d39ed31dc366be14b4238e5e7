@@ -1,0 +1,36 @@
+
+i
+java:S1192b"GDefine a constant instead of duplicating this literal "&date=" 3 times.(üû”áþÿÿÿÿ8ùà¼‰Ê1
+r	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á’æòùÿÿÿÿ8úà¼‰Ê1
+n	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¿Äè8úà¼‰Ê1
+m	java:S117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ‡ž48úà¼‰Ê1
+T
+java:S2629g"7Use the built-in formatting to construct this argument.(è¿ì´8ûà¼‰Ê1
+U
+java:S2629ƒ"7Use the built-in formatting to construct this argument.(ÿ’í»8ûà¼‰Ê1
+Z
+java:S2629Ú"7Use the built-in formatting to construct this argument.(†É«Ûÿÿÿÿÿ8ûà¼‰Ê1
+£
+java:S2681m"†This line will not be executed conditionally; only the first line of this 4-line block will be. The rest will execute unconditionally.(“½³x8þà¼‰Ê1
+j
+java:S4488,"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ž–û‚ùÿÿÿÿ8Üâ¼‰Ê1
+Y
+java:S1854K"<Remove this useless assignment to local variable "statList".(“À 8Þâ¼‰Ê1
+]
+java:S1854W";Remove this useless assignment to local variable "setTime".(üÈªÓýÿÿÿÿ8Þâ¼‰Ê1
+e
+java:S4488;"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ç†â˜8ßâ¼‰Ê1
+J
+java:S1481K"-Remove this unused "statList" local variable.(“À 8õâ¼‰Ê1
+^
+java:S3457g"AFormat specifiers should be used instead of string concatenation.(è¿ì´8øâ¼‰Ê1
+d
+java:S3457€"AFormat specifiers should be used instead of string concatenation.(é–Šøøÿÿÿÿ8üâ¼‰Ê1
+_
+java:S3457ƒ"AFormat specifiers should be used instead of string concatenation.(ÿ’í»8üâ¼‰Ê1
+Y	java:S125"<This block of commented-out lines of code should be removed.(øò›8üâ¼‰Ê1
+^	java:S125›"<This block of commented-out lines of code should be removed.(øû±»üÿÿÿÿ8ÿâ¼‰Ê1
+u
+java:S3776º"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(áƒÂ„ÿÿÿÿÿ8ã¼‰Ê1
+d
+java:S3457Ú"AFormat specifiers should be used instead of string concatenation.(†É«Ûÿÿÿÿÿ8„ã¼‰Ê1

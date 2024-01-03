@@ -1,0 +1,15 @@
+
+	java:S116"^Rename this field "item_equipment_part" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¨ôÖûÿÿÿÿ8µÖ¥É1
+u	java:S116	"YRename this field "equipment_slot" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§£ÛÙ8‚Ê×¥É1
+o	java:S116
+"TRename this field "item_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âë¤8‚Ê×¥É1
+{	java:S116"ZRename this field "item_shape_icon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÎé¸şÿÿÿÿ8Ğ«‚ªÉ1
+u	java:S116"TRename this field "item_icon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ê£ìûÿÿÿÿ8¬˜Ø¥É1
+‚	java:S116"aRename this field "potential_option_grade" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖšËşÿÿÿÿ8ß¸Ú¥É1
+~	java:S116"]Rename this field "potential_option_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ß“Çüÿÿÿÿ8Ë…Û¥É1
+~	java:S116"]Rename this field "potential_option_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÒÖÛÿÿÿÿÿ8ÑÂÛ¥É1
+y	java:S116"]Rename this field "potential_option_3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şöØ8¢Ü¥É1
+~	java:S116"]Rename this field "special_ring_level" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡öÖùÿÿÿÿ8’ÇŞ¥É1
+r	java:S116"VRename this field "soul_option" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­û£ú8áÊß¥É1
+t	java:S116"SRename this field "add_Stat" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãç“±úÿÿÿÿ8«îÔªÉ1
+t	java:S116"YRename this field "spectail_level" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şİ¢98—»­…Ê1

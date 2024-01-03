@@ -1,0 +1,8 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(†»£ğøÿÿÿÿ8Â°•µÉ1
+v	java:S116"URename this field "world_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©‘í˜şÿÿÿÿ8Ã°•µÉ1
+{	java:S116"ZRename this field "character_class" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»‡ú²úÿÿÿÿ8®Óå·É1
+{	java:S116	"ZRename this field "character_level" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëç¨Úøÿÿÿÿ8Ã°•µÉ1
+{	java:S116
+"ZRename this field "character_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÇÉÿÿÿÿÿ8Ã°•µÉ1
+€	java:S116"_Rename this field "character_guild_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Ù£ıÿÿÿÿ8Ã°•µÉ1
